@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\constraction\\images\\Home_files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Constraction website"
+	}
+}
